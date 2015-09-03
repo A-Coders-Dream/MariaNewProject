@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/NextPart.wav</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Desktop/NextPart.wav</locationURI>
+		</link>
+		<link>
+			<name>src/TheBonnieBanksOfLocklomand.wav</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Desktop/TheBonnieBanksOfLocklomand.wav</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
